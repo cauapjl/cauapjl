@@ -4,4 +4,4 @@ meu nome e caua rodrigo
 
 - Estoa estudando no alura
 - Estou me desevolvendo na liguagem javaScript
-- 
+  
